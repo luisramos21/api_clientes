@@ -1,0 +1,14 @@
+Revisar datos de conexion  en la base de datos en la carpeta 
+
+usuario
+id8138591_lramos
+
+contraseña:
+123456
+
+base de datos
+
+id8138591_clientes
+
+version php 
+5.4 - 5.6
