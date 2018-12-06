@@ -1,5 +1,5 @@
 ###################
-Que es el Sistema de Monitorias
+Que es el Api Web
 ###################
 
 ********************
@@ -11,15 +11,9 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
-Sistema de monitoria es una aplicación desarrollada con el Framework Codeigniter ,
-este proyecto se encarga de administrar las monitorias a personas (monitores) llevando
-registro a registro de este.
-
 *******************
 Leer Information
 *******************
-Importante  cambiar rutas en el caso de tener 
-otro puerto diferente en tu servidor.
 
 *******************
 Server Requirements
@@ -32,10 +26,10 @@ Mysql
 ************
 Installation
 ************
-importar archivo monitores.sql en tu phpmyadmin y continuar
+importar archivo Database.sql en tu phpmyadmin y continuar
 
 copiar proyecto en tu  servidor y abrir
-http://localhost/sistema_monitorias/
+http://localhost/api_clientes/
 abrir navegador y usar sistema.
 
 leer configuracion en cambiar Url
